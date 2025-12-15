@@ -12,9 +12,6 @@ I enjoy building scalable data models, dashboards, and analytics solutions that 
 📍 United States 
 🎓 MS in Business Analytics – Arizona State University
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Projects_-2024-2025&show_icons=true)
+[Projects 2024-2025](https://github.com/abaner64-maker/Projects_-2024-2025)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Projects_-2024-2025&layout=compact)
-
-Project Links - https://github.com/abaner64-maker/Projects_-2024-2025.git
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abaner64-maker&layout=compact)
