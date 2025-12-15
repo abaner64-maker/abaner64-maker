@@ -14,4 +14,10 @@ I enjoy building scalable data models, dashboards, and analytics solutions that 
 
 [Projects 2024-2025](https://github.com/abaner64-maker/Projects_-2024-2025)
 
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abaner64-maker&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abaner64-maker&layout=compact)
+
