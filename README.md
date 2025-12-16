@@ -9,11 +9,12 @@ I enjoy building scalable data models, dashboards, and analytics solutions that 
 - 🔹 Data Governance, KPI Tracking, A/B Testing
 - 🔹 Cross-functional collaboration & stakeholder communication
 
-📍 United States 
+📍 California, United States 
 🎓 MS in Business Analytics – Arizona State University
 
 [Projects 2024-2025](https://github.com/abaner64-maker/Projects_-2024-2025)
 
+[My Personal Website](https://anweshabanerjee-5ksjqlk.gamma.site/)
 
 ## 📊 GitHub Stats
 
