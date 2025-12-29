@@ -18,7 +18,10 @@ I enjoy building scalable data models, dashboards, and analytics solutions that 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abaner64-maker&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abaner64-maker&show_icons=true&theme=default&cache_seconds=1800&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abaner64-maker&layout=compact&theme=default&cache_seconds=1800)
+
 
 
 
